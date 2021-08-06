@@ -7,7 +7,8 @@ body {
 #todo-portfolio,
 #todo-interview,
 #todo-daily,
-#icons {
+#icons,
+#goal {
   margin: 1rem 0.5rem;
   border: 3px solid rgb(161, 161, 161);
   border-radius: 20px;
