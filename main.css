@@ -1,0 +1,39 @@
+body {
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+#todo-portfolio,
+#todo-interview,
+#todo-daily,
+#icons {
+  margin: 1rem 0.5rem;
+  border: 3px solid rgb(161, 161, 161);
+  border-radius: 20px;
+  overflow: hidden;
+  padding: 1rem;
+}
+
+.section__title {
+  border-bottom: 3px solid rgb(161, 161, 161);
+}
+
+.section__sub-title {
+  background-color: rgb(161, 161, 161);
+  padding: 0.5rem;
+  color: white;
+  font-size: 0.8rem;
+}
+
+.icon--progress {
+  background-color: sandybrown;
+  color: white;
+  padding: 0.5rem;
+  border-radius: 10px;
+}
+
+.on-progress {
+  color: sandybrown;
+  font-weight: bold;
+}
