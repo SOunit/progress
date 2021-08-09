@@ -38,3 +38,10 @@ body {
   color: sandybrown;
   font-weight: bold;
 }
+
+@media (min-width: 40rem) {
+  #progress {
+    max-width: 60rem;
+    margin: 0 auto;
+  }
+}
